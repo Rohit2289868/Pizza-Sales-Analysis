@@ -5,18 +5,29 @@
 
 This pizza sales dataset make up 12 relevant features:
 
-pizza_id: Unique identifier for each pizza entry.
-order_id: Unique identifier for each order.
-pizza_name_id: Identifier for the name and size of the pizza.
-quantity: Number of pizzas ordered.
-order_date: Date when the order was placed.
-order_time: Time when the order was placed.
-unit_price: Price per unit of the pizza.
-total_price: Total price for the order (unit price multiplied by quantity).
-pizza_size: Size of the pizza (Small, Medium, Large, X Large, or XX Large).
-pizza_category: Category of the pizza (e.g., Classic, Veggie, Supreme, Chicken).
-pizza_ingredients: List of ingredients used in the pizza.
-pizza_name: Name of the pizza.
+pizza_id: Unique identifier for each pizza entry
+
+order_id: Unique identifier for each order
+
+pizza_name_id: Identifier for the name and size of the pizza
+
+quantity: Number of pizzas ordered
+
+order_date: Date when the order was placed
+
+order_time: Time when the order was placed
+
+unit_price: Price per unit of the pizza
+
+total_price: Total price for the order (unit price multiplied by quantity)
+
+pizza_size: Size of the pizza (Small, Medium, Large, X Large, or XX Large)
+
+pizza_category: Category of the pizza (e.g., Classic, Veggie, Supreme, Chicken)
+
+pizza_ingredients: List of ingredients used in the pizza
+
+pizza_name: Name of the pizza
 
 # Business Tasks
 
